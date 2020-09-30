@@ -1,0 +1,9 @@
+n=10
+print("Distanta in m=",n)
+print("Distanta in cm=",n*100)
+print("Masa in kg=",n)
+print("Masa in mg=",n*10000)
+print("Ani=",n)
+print("Luni=",n*12)
+print("Saptamani=",n*52)
+print("Zile=",n*365+2)
